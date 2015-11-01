@@ -389,6 +389,7 @@ a:hover {
 
 .row-fluid {
   width: 100%;
+  background-color:white;
   *zoom: 1;
 }
 
